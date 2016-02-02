@@ -32,7 +32,7 @@
 <body>
 <header>
   <h1>
-    <strong>Rebus</strong>
+    <a href="/" title="REBUS Open Textbooks"><strong>Rebus</strong></a>
     <em>Open Web Textbooks</em>
   </h1>
   <h2>Building&nbsp;knowledge to&nbsp;build&nbsp;on</h2>
