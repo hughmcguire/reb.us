@@ -41,18 +41,28 @@
 
   <div class="section">
     <h3>What are we doing?</h3>
-    <p>Together with universities, professors, teachers, students, and regular people, we make and distribute free, Open Textbooks.</p>
-    <p>
+    <p>Rebus simplifies the creation, distribution, collection and deep reading of web-based Open Textbooks.</p>
+    <!--p>
       <a href="/opentextbooks/" title="Rebus Open Textbooks">More about Open Textbooks >></a>
-    </p>
+    </p-->
   </div>
 
   <div class="section">
     <h3>How are we doing this?</h3>
-    <p>Rebus Open Textbooks embrace the structure and expectations we have of books, and add the power of the Open Web, enabling people—and machines—to use and build on them in new and meaningful ways.</p>
-    <p>
+    <p>Rebus works with a global network of universities, professors and students to publish textbooks in an open and collaborative publishing model.
+
+    <p>Rebus textbooks are open WebBooks which embrace the structures and expectations we have of books, and add the power of the Open Web.</p>
+    <!--p>
       <a href="/openwebbooks/" title="Rebus Open Web Books">More about Open Web Books >></a>
-    </p>
+    </p-->
+  </div>
+
+  <div class="section">
+    <h3>Why are we doing what we are doing?</h3>
+    <p>Books and textbooks are central tools in our intellectual lives. They are, literally, the documentation of human knowledge and experience. Rebus is building an open, web-based platform to encourage deeper engagement, and to enable people (and machines), to use and build on books and reading in new and meaningful ways.</p>
+    <!--p>
+      <a href="/openwebbooks/" title="Rebus Open Web Books">More about Open Web Books >></a>
+    </p-->
   </div>
 
   <div class="section who">
@@ -85,11 +95,11 @@
     <h3>Our Advisors</h3>
     <p>
       <strong><a href="https://twitter.com/acroll" title="Alistair Croll on Twitter">Alistair&nbsp;Croll</a></strong><span class="comma">, </span>
-        Chair,
+        Co-chair,
         <em>O’Reilly&nbsp;Strata&nbsp;&amp; Next:Money&nbsp;conferences</em>
       <br>
       <strong><a href="http://jambina.com/" title="Amy Buckland on Twitter">Amy&nbsp;Buckland</a></strong><span class="comma">, </span>
-        Scholarly&nbsp;Communications,
+        Institutional&nbsp;Repository&nbsp;Manager,
         <em>U&nbsp;Chicago&nbsp;Library</em>
       <br>
       <strong><a href="https://twitter.com/blaine" title="Blaine Cook on Twitter">Blaine&nbsp;Cook</a></strong><span class="comma">, </span>
