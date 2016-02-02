@@ -37,6 +37,7 @@ p {
 
 /*** HEADERS **/
 header {
+    background: url('/img/Rebus-Incuse.png') top right no-repeat;
 }
 header h1 {
     line-height: 1em;
@@ -91,12 +92,16 @@ h4 {
 .section.who p {
     margin-right: 1em;
 }
+/* ------------------------------------------ */
 /* Small screens */
 @media only screen {
     body {
         padding:1em;
         padding-top:0.1em;
         margin-right:0;
+    }
+    header {
+        background-size: 76px;
     }
     header h1 {
         margin:0;
@@ -124,13 +129,21 @@ h4 {
     }
 } /* Define mobile styles --------------------- */
 
-
+/* Intermedium screens */
+@media screen and (min-width: 28em) {
+    header {
+        background-size: 108px;
+    }
+}
 /* Medium screens */
 @media screen and (min-width: 40em) {
     body {
         padding:1.5em;
         padding-top:0.25em;
         margin-right:0;
+    }
+    header {
+        background-size: 150px;
     }
     header h1 {
         margin: 0;
@@ -154,6 +167,13 @@ h4 {
 } /* min-width 641px, medium screens ---------- */
 
 
+/* Interlarge screens */
+@media screen and (min-width: 47em) {
+    header {
+        background-size: 192px;
+    }
+}
+
 
 /* Large screens */
 @media screen and (min-width: 64em) {
@@ -163,6 +183,9 @@ h4 {
         padding-top:0.5em;
         /*margin-right:4em;
         padding:4em;*/
+    }
+    header {
+        background-size: 256px;
     }
     header h1 {
         margin: 0;
