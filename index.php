@@ -51,7 +51,7 @@
     <h3>How are we doing this?</h3>
     <p>Rebus works with a global network of universities, professors and students to publish textbooks in an open and collaborative publishing model.
 
-    <p>Rebus textbooks are open WebBooks which embrace the structures and expectations we have of books, and add the power of the Open Web.</p>
+    <p>Rebus textbooks are Open Webbooks which embrace the structures and expectations we have of books, and add the power of the Open Web.</p>
     <!--p>
       <a href="/openwebbooks/" title="Rebus Open Web Books">More about Open Web Books >></a>
     </p-->
