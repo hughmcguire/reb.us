@@ -41,7 +41,7 @@
 
   <div class="section">
     <h3>What are we doing?</h3>
-    <p>Rebus simplifies the creation, distribution, collection and deep reading of web-based Open Textbooks.</p>
+    <p>Rebus simplifies the creation, distribution, collection and deep reading of web-based Open Textbooks and other things.</p>
     <!--p>
       <a href="/opentextbooks/" title="Rebus Open Textbooks">More about Open Textbooks >></a>
     </p-->
